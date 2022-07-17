@@ -14,10 +14,10 @@
 			jdbc:sqlserver://localhost:1433;databaseName=fadb;
 		</property>
 		<property name="hibernate.connection.username">
-			sa
+			
 		</property>
 		<property name="hibernate.connection.password">
-			quangbac13
+			
 		</property>
 		<property name="show_sql">true</property>
 		<property name="hbm2ddl.auto">create</property>
